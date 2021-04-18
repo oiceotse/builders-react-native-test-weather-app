@@ -18,3 +18,13 @@ O app usa class components e hooks para fins de demonstração.
 Gostaria de ter feito algo mais bem acabado com animações e etc... mas por não ter os wireframes prontos e nem design de UI  ser meu forte, decidi fazer algo mais simples visualmente, mas com uma arquitetura bem sólida e construida.
 
 A api Open Weather traz o nome da cidade errado. Testei a mesma geolocalização que é enviada para a api em outros serviços e em todos me trouxeram o nome da cidade correto. Por isso pode estar aparecendo o nome da cidade errado na tela, mas o lat e long estão corretos.
+
+
+## Nublado ##
+![](https://user-images.githubusercontent.com/30709513/115135882-472d8680-9ff2-11eb-85f6-8a2698fca25f.gif)
+
+## Ensolarado ##
+![](https://user-images.githubusercontent.com/30709513/115135819-d25a4c80-9ff1-11eb-9b7b-6c71003a6320.gif)
+
+## Chovendo ##
+![](https://user-images.githubusercontent.com/30709513/115135847-0df51680-9ff2-11eb-94e0-00fef4542912.gif)
